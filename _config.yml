@@ -1,7 +1,7 @@
 name: Odie is Epic
 favicon: null
-layout_spectrum: 0.6641991601791233
-typography_spectrum: 0.45287289726547897
+layout_spectrum: 0
+typography_spectrum: 0.12016
 title: Page 0
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#34373e'
     - '#f1cd1f'
     - '#cb8103'
-  brandStrength: 0.1875
-  lightness: 0.25
+  brandStrength: 0
+  lightness: 0.125
   saturation: 0.1875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
