@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-29T22:32:25.020Z'
-dateModified: '2016-03-29T22:30:55.473Z'
+description: "1. Odie O'Dool hath been a fool"
+datePublished: '2016-04-05T05:28:56.708Z'
+dateModified: '2016-04-05T05:28:25.913Z'
 title: "Odie's Epic"
 author: []
+sourcePath: _posts/2016-03-29-odies-epic.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-odies-epic.md
-published: true
 url: odies-epic/index.html
 _type: Article
 
@@ -32,12 +32,8 @@ _type: Article
 
 4\. Beat and battered on his cot
 
-5\. Thinking thoughts, his mind had lots
+5\. Thinking thoughts, 
 
-6\. Connecting dots others could not
+6\. His mind had lots,
 
-7\. With his house, below the mountain's top
-
-8\. Ticked the toc of a broken clock
-
-9\.
+7\. Connecting dots others could not.
