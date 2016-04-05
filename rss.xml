@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Page 0]]></title>
         <description><![CDATA[Page 0]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/odie-is-epic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 22:32:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 05:28:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/odie-is-epic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Odie's Epic]]></title>
             <description><![CDATA[<article><h1>Odie's Epic</h1><p>1. Odie O'Dool hath been a fool</p></article>]]></description>
-            <link>undefinedodies-epic/index.html</link>
+            <link>https://thegrid.ai/odie-is-epic/odies-epic/index.html</link>
             <guid isPermaLink="false">a8e9c044-996d-42ed-aefe-56744dd66417</guid>
-            <pubDate>Tue, 29 Mar 2016 22:32:25 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 05:28:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
